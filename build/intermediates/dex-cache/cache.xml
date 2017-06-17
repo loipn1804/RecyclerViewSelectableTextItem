@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/phanloi/Workspace/Android/loipn1804/RecyclerViewSelectableTextItem/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/phanloi/Workspace/Android/loipn1804/RecyclerViewSelectableTextItem/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bd89ab1858109d11ef87b79227dc16d8106e4a94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phanloi/Workspace/Android/loipn1804/RecyclerViewSelectableTextItem/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7806ab8eb6fb6ba36b0d1c58d8c285c7163c183e">
+        <dex dex="/Users/phanloi/Workspace/Android/loipn1804/RecyclerViewSelectableTextItem/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ebd822eb351bf84e2018bb1e744dd00facffd29d/classes.dex" />
+    </item>
+
+</items>
